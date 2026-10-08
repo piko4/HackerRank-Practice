@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profiles version="21">
+    <profile kind="CodeFormatterProfile"
+             name="MyJavaStyle"
+             version="21">
+
+        <setting
+            id="org.eclipse.jdt.core.formatter.brace_position_for_method_declaration"
+            value="next_line"/>
+
+        <setting
+            id="org.eclipse.jdt.core.formatter.brace_position_for_type_declaration"
+            value="next_line"/>
+
+        <setting
+            id="org.eclipse.jdt.core.formatter.brace_position_for_block"
+            value="next_line"/>
+
+        <setting
+            id="org.eclipse.jdt.core.formatter.brace_position_for_constructor_declaration"
+            value="next_line"/>
+
+    </profile>
+</profiles>
